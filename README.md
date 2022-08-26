@@ -9,6 +9,12 @@
 
 ***
 
+* 전체 시스템
+
+![시스템](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/0_system.png)
+
+***
+
 * 야생 종자 샘플: 엉겅퀴, 산딸기, 고들빼기, 독활(땅두릅), 익모초 
 
 ![wild seed sample](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/01_wild_seeds_sample.jpg)
