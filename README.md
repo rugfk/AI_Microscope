@@ -10,7 +10,8 @@
 ***
 
 * 야생 종자 샘플
-![wild seed sample](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/wild_seeds.jpg)
+
+![wild seed sample](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/01_wild_seeds_sample.jpg)
 
 
 ***
