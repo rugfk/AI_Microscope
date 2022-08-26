@@ -2,4 +2,4 @@
 
 ***
 
-* []()
+* ![view](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/sample.png)
