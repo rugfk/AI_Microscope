@@ -2,7 +2,7 @@
 
 ***
 
-* 2022년 Soul Hardware Hackerthon @Gcamp
+* <b>2022년 Soul Hardware Hackerthon @Gcamp</b>
 * Updated Date: 2022년 8월27일 
 * 팀명: Farming AI
 * 팀장: Haesung Lee
