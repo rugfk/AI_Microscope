@@ -2,4 +2,8 @@
 
 ***
 
+* Updated Date: 2022년 8월27일 
+* Programmer: Haesung Lee
+
+
 ![view](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/sample.png)
