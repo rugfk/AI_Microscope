@@ -22,4 +22,26 @@
 
 ***
 
-* 
+* 산딸기 종자 인식율: <b>97.27%</b> 
+
+![02](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/sample02.png)
+
+***
+
+* 고들빼기 종자 인식율: <b>85.16%</b> 
+
+![03](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/sample03.png)
+
+***
+
+* 독활(땅두릅): <b>94.14%</b>
+
+![04](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/sample04.png)
+
+***
+
+* 익모초: <b>73.44%</b>
+
+![05](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/sample05.png)
+
+***
