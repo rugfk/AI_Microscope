@@ -9,6 +9,12 @@
 
 ***
 
+* 야생 종자 샘플
+![wild seed sample](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/wild_seeds.jpg)
+
+
+***
+
 * 엉겅퀴 종자 인식율: <b>94.92%</b> 
 
 ![view](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/sample.png)
