@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.lite.examples.classification;
+package com.farmingai.wildseed;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
