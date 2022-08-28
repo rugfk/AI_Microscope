@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.lite.examples.classification;
+package com.farmingai.wildseed;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
