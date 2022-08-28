@@ -1,4 +1,4 @@
-package org.tensorflow.lite.examples.classification;
+package com.farmingai.wildseed;
 
 /*
  * Copyright 2019 The TensorFlow Authors. All Rights Reserved.
