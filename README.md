@@ -7,7 +7,7 @@
 * Updated Date: 2022년 8월27일 
 * 팀명: Farming AI
 * 팀장: Haesung Lee
-* Phone: 0507-1473-1394
+* 연락처(개발문의/맞춤형AI모델): 0507-1473-1394
 
 ***
 
