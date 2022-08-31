@@ -14,6 +14,8 @@
 
 * 전체 시스템
 
+  - Display Panel(3D Printing File): https://www.thingiverse.com/thing:2814678/files
+
 ![시스템](https://raw.githubusercontent.com/rugfk/AI_Microscope/main/images/0_system.png)
 
 ***
